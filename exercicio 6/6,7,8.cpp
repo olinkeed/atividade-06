@@ -1,0 +1,3 @@
+//Ele realiza a soma dos elementos que estão entre o b e o c, incluindo b e c e que são diviseis por a, por exemplo 1 70 80, ele realizara a soma de 70 até 80 pois todos no intervalo realizam uma divisão exata dando 825 o resultado     
+//Ele verifica se o número de 1000 - 9999, o resultado dele divido por 100 + o resto dele por 100 ao quadrado da ele mesmo, por exemplo 2025, o resultado divido por 100 = 20, e o resto por 100 = 25, 20 + 25 = 45 e 45 * 45 é igual a 2025
+//Ele retorna a quantidade de divisores que existem para o número que foi dado, caso seja 4 a variável Q já inicia com 2 pois ele é divisel por 1 e ele mesmo e recebe mais 1 quando 4%2 == 0 sendo assim o 4 tendo 3 divisores
